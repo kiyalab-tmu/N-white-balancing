@@ -7,7 +7,7 @@ This code has been tested with **Matlab 2020b**.
 ## Get Started
 1. Copy your image and paste it to ./IMG/
 2. Run ./N-WB/main.m with MATLAB
-3. Processed image will be presented in ./results_*/
+3. Processed image will be exported in ./results_*/
 
 ## Miscellaneous
 All files are provided for **research purposes only**, and no commercial use is allowed.
